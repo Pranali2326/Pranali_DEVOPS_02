@@ -1,2 +1,6 @@
 Initial Content
+<<<<<<< HEAD
 Hotfix or another change
+=======
+Feature A added
+>>>>>>> feature-branch
